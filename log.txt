@@ -1,0 +1,10 @@
+[golsp]2024/03/26 14:27:29 Lesss Go!!!
+[golsp]2024/03/26 14:27:29 Recieved msg with method: initialize
+[golsp]2024/03/26 14:27:29 Connected to Neovim Version: 0.9.5
+[golsp]2024/03/26 14:27:29 Sent the reply
+[golsp]2024/03/26 14:27:29 Recieved msg with method: initialized
+[golsp]2024/03/26 14:38:00 Recieved msg with method: textDocument/didOpen
+[golsp]2024/03/26 14:38:00 Opened file at file:///home/mirsahebali/projects/room_rs/README.md:
+[golsp]2024/03/26 14:38:01 Recieved msg with method: textDocument/didSave
+[golsp]2024/03/26 14:38:01 Recieved msg with method: textDocument/didSave
+[golsp]2024/03/26 14:38:02 Recieved msg with method: textDocument/didSave

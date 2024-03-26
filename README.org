@@ -1,4 +1,0 @@
-#+title: README
-#+author: Mir Saheb Ali
-
-* LSP in Go from scratch
